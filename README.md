@@ -2,7 +2,7 @@
 # COVID-19 Global Dashboard
 
 ## Project Overview
-This repository contains a dynamic dashboard designed to visualize COVID-19 statistics worldwide. It presents data on total cases, deaths by continent, and the percentage of populations infected per country.
+This repository contains a dynamic dashboard designed to visualize COVID-19 statistics worldwide and a SQL file where Queries are performed in SQL Server Management Studio. It presents data on total cases, deaths by continent, and the percentage of populations infected per country.
 
 ## Features
 - **Global Case Tracker:** Displays total confirmed cases and deaths globally.
@@ -11,6 +11,7 @@ This repository contains a dynamic dashboard designed to visualize COVID-19 stat
 
 ## Technologies Used
 - Tableau for data visualization
+- SQL Server Management Studio for SQL Queries
 - Python for data preprocessing (optional)
 - Various APIs for real-time data fetching (optional)
 
