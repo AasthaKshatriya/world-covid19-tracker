@@ -18,7 +18,7 @@ This repository contains a dynamic dashboard designed to visualize COVID-19 stat
 ## Setup
 To run this dashboard locally:
 1. Clone the repository:
-https://github.com/Aastha291200/world-covid19-tracker
+(https://github.com/AasthaKshatriya/world-covid19-tracker)
 2. Open the `Covid Dashboard.twbx` file in Tableau Desktop.
 3. Refresh the data sources to view the most recent data.
 
